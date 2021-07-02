@@ -25,3 +25,8 @@ This is the page that displays all the dishes that users has favorited.
 The last tab is the settings tab and it will show all the corresponding user information such as username, 
 the recipes user has purchased, terms of use, and so on. Aside from this tab, we have a pop up window for QR scanning 
 to allow users to scan QR code to access to recipes under the same restaurant in a quick and easy way.
+
+
+DEMO:
+
+![QRecipe](https://user-images.githubusercontent.com/61069233/124211909-ef180380-dabb-11eb-83ca-d66346804e61.gif)
